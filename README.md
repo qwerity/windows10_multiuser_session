@@ -1,6 +1,6 @@
 # windows10_multiuser_session
 
-**instructions took for this [link](http://www.serverwatch.com/server-tutorials/remote-desktop-connections-for-multiple-users-on-windows-10-and-windows-server-2012.html)**
+**instructions took from this [link](http://www.serverwatch.com/server-tutorials/remote-desktop-connections-for-multiple-users-on-windows-10-and-windows-server-2012.html)**
 
 ## Remote Desktop Connections for Multiple Users on Windows 10 and Windows Server 2012
 
